@@ -4,14 +4,16 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+MovieLens is a company in the internet and entertainment domain providing an online database of informaiton related to films, television series, and online streaming content including cast, production crew, trivia, ratings, fan and critical reviews. Every year in collaboration with a guest curator, MovieLens publish their annual insights based on a theme providing a compregensive view of a topic. The company is planning to bring out the "Movie Talkies: Classic" edition this year. The idea is to connect with viewers who have strong movie preferences as well as promote classic movies to attract newer customers and expand their viewer base. 
+
+""Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.""
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- Link between user age/profession//rating:
+- Distribution of movies/genres/gender:
+- Regional distribution of users: 
+- Gerernational interests:
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
