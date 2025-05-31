@@ -4,7 +4,7 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 
 
 # Project Background
-UrbanCart Co., estabilish in 2017, is a domestic retail store that sells a wide array of products with locations in every region in the country. 
+UrbanCart Co., estabilish in 2017, is a domestic retail company that sells a wide array of products with locations in every region across the country. 
 
 In order to gain business insights to improve profitability, the company executives wish to know what their sales data reveals in regards to region, weather conditions, demand levels, promotion, and also how a recent epidemic affects sales across their locations. 
 
