@@ -1,10 +1,12 @@
 Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
 
-
+ 
 
 
 # Project Background
-MovieLens is a company in the internet and entertainment domain providing an online database of informaiton related to films, television series, and online streaming content including cast, production crew, trivia, ratings, fan and critical reviews. Every year in collaboration with a guest curator, MovieLens publish their annual insights based on a theme providing a compregensive view of a topic. The company is planning to bring out the "Movie Talkies: Classic" edition this year. The idea is to connect with viewers who have strong movie preferences as well as promote classic movies to attract newer customers and expand their viewer base. 
+UrbanCart Co., estabilish in 2017, is a domestic retail store that sells a wide array of products with locations in every region in the country. 
+
+In order to gain business insights to improve profitability, the company executives wish to know what their sales data reveals in regards to region, weather conditions, demand levels, promotion, and also how a recent epidemic affects sales across their locations. 
 
 ""Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.""
 
